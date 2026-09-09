@@ -9,6 +9,11 @@
       "id": "1.0.2",
       "nombre": "Deadweight Fabric 1.0.2",
       "manifiesto": "https://raw.githubusercontent.com/delgadovargasdaniel28-cloud/mi-launcher-datos/main/versions/1.0.2/modrinth.index.json"
+    },
+    {
+      "id": "1.0.3",
+      "nombre": "Deadweight Fabric 1.0.3",
+      "manifiesto": "https://raw.githubusercontent.com/delgadovargasdaniel28-cloud/mi-launcher-datos/main/versions/1.0.3/modrinth.index.json"
     }
   ]
 }
